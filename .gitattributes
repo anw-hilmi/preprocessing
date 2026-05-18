@@ -2,4 +2,4 @@
 * text=auto
 animals/~ filter=lfs diff=lfs merge=lfs -text
 Dataset-Final/~ filter=lfs diff=lfs merge=lfs -text
-Dataset_animals.ipynb filter=lfs diff=lfs merge=lfs -text
+
